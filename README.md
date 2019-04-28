@@ -5,6 +5,9 @@
 
 ---
 
+<object>
+</object>
+
 ***How to get started:***
 
 mdp needs the ncursesw headers to compile.
